@@ -1,2 +1,1 @@
-# DataStructure
-The C data structure learn.
+# VsCode Use Plug-In
